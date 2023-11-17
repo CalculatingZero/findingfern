@@ -65,7 +65,7 @@ Another options would be to create the game in Unity, then it could be deployed 
 * Macbook Air (2020)
 
 ## Try it out
-To try out the game, download the Adobe Aero app, click on the link, or scan the QR code below.
+To try out the game, download the Adobe Aero app, click on the link, or scan the QR code below. It is designed for McKinley Park in Sacramento.
 
 Adobe Aero App Links:
 * iOS: [https://apps.apple.com/us/app/adobe-aero/id1401748913](https://apps.apple.com/us/app/adobe-aero/id1401748913)
@@ -78,7 +78,6 @@ QR Code:
 <p align="center" width="100%">
   <img width="80%" src="images/FindingFern.png">
 </p>
-
 
 To begin tap the robot and the story will unfold!
 <p align="center" width="100%">
