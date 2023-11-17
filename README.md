@@ -2,7 +2,7 @@
   <img width="80%" src="images/findingfernthumbnail.png">
 </p>
 
-# findingfern
+# Finding Fern
 Help Roger Robot find all the Fern Friends! An AR RPG mini-game.
 
 ## Inspiration
@@ -66,6 +66,17 @@ Another options would be to create the game in Unity, then it could be deployed 
 
 ## Try it out
 To try out the game, download the Adobe Aero app, click on the link, or scan the QR code below.
+
+To begin tap the robot and the story will unfold!
+<p align="center" width="50%">
+  <img width="50%" src="images/StartScene.png">
+  <img width="50%" src="images/QuestBegins.png">
+</p>
+
+Once you find all the fern friends you can launch the rocket and access more projects I've worked on.
+<p align="center" width="50%">
+  <img width="70%" src="images/FindingOneFern.png">
+</p>
 
 Adobe Aero App Links:
 * iOS: [https://apps.apple.com/us/app/adobe-aero/id1401748913](https://apps.apple.com/us/app/adobe-aero/id1401748913)
