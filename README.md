@@ -67,8 +67,6 @@ Another options would be to create the game in Unity, then it could be deployed 
 ## Try it out
 To try out the game, download the Adobe Aero app, click on the link, or scan the QR code below.
 
-<video src="videos/GameStart_Demo.mov"/>
-
 Adobe Aero App Links:
 * iOS: [https://apps.apple.com/us/app/adobe-aero/id1401748913](https://apps.apple.com/us/app/adobe-aero/id1401748913)
 * Android: [https://play.google.com/store/apps/details?id=com.adobe.aero.android&hl=en&gl=US&pli=1](https://play.google.com/store/apps/details?id=com.adobe.aero.android&hl=en&gl=US&pli=1)
