@@ -1,5 +1,5 @@
 <p align="center" width="100%">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/s53wuxv-huA?si=nMK4EoqozwkdF4ao" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  <img width="80%" src="images/findingfernthumbnail.png">
 </p>
 
 # Finding Fern
